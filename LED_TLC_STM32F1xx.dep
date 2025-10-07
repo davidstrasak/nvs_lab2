@@ -1,0 +1,4 @@
+Dependencies for Project 'LED_TLC', Target 'STM32F1xx': (DO NOT MODIFY !)
+F (.\STM32F10x.s)(0x68DEDE0E)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I "C:\Program Files\Keil\ARM\RV31\INC"-I "C:\Program Files\Keil\ARM\CMSIS\Include"-I "C:\Program Files\Keil\ARM\Inc\ST\STM32F10x"--list .\stm32f10x.lst --xref -o .\stm32f10x.o --depend .\stm32f10x.d)
+F (.\LED_TLC.asm)(0x68E4EF9B)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I "C:\Program Files\Keil\ARM\RV31\INC"-I "C:\Program Files\Keil\ARM\CMSIS\Include"-I "C:\Program Files\Keil\ARM\Inc\ST\STM32F10x"--list .\led_tlc.lst --xref -o .\led_tlc.o --depend .\led_tlc.d)
+F (.\ReadMe.txt)(0x4D13525E)()
